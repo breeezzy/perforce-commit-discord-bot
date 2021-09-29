@@ -25,7 +25,7 @@ The installation will require you to enter a number of settings as environment v
 
 | Key  | Value Information | Required |
 | ------------- | ------------- | ------------- |
-| `DISCORD_WEBHOOK_URL`  | The [Webhook URL](https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks) for the Discord channel you'd like the bot to post its messages to. | **Yes** |
+| `https://discord.com/api/webhooks/888509761455267852/I2YSIkM5PpINvOGZV4L8qYT6VcFjuI4CIelxjiO9Bh_00GY_VpBdZB_tSYtC1f0L6cIS/github`  | The [https://discord.com/api/webhooks/888509761455267852/I2YSIkM5PpINvOGZV4L8qYT6VcFjuI4CIelxjiO9Bh_00GY_VpBdZB_tSYtC1f0L6cIS](https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks) for the Discord channel you'd like the bot to post its messages to. | **Yes** |
 
 
 ![Example](assets/readme.png)
